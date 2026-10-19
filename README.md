@@ -1,4 +1,4 @@
-# SkillSetu (कौशल सेतु)
+# SkillSetu 
 ### AI-Assisted Prior Learning Assessment & Diagnostic Dossier Platform for Informal Workers
 **Smart India Hackathon (SIH26242) • NSQF-Aligned RPL Framework**
 
